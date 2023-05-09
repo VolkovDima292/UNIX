@@ -4,3 +4,7 @@
 2. Запустить makefile
 3. Проверить файл test с помощью команды: "./test"
 4. Также для building возможно использовать слудующую команду: "gcc dbg_work.c -L {путь к файлу сборки} -ldbg -o test"
+
+Пример работы программы:
+![image](https://github.com/VolkovDima292/UNIX/assets/133058001/7311573a-7ac1-4162-a02f-0e7947352bc7)
+
